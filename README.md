@@ -9,3 +9,4 @@
     4. [JavaScript projekto pasiruošimas](./content/pasiruosimas/js-project.md)
     5. [Mokomės naudotis script'ais](./content/pasiruosimas/npm-scripts.md)
 2. Darbas su duomenimis
+3.

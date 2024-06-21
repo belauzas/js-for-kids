@@ -9,7 +9,7 @@
 ```json
  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+},
 ```
 
     - prieš dvitaškį (:) yra script'o pavadinimas
@@ -42,9 +42,9 @@ $ npm run test
 7. Galiausiai turėtume matyti tokį rezultatą:
 
 ```json
- "scripts": {
-    "agurkas": "echo \"Error: no test specified\" && exit 1"
-  },
+"scripts": {
+	"agurkas": "echo \"Error: no test specified\" && exit 1"
+},
 ```
 
 8. Išsaugome failą `Crtl + s`
@@ -87,7 +87,7 @@ $ npm run agurkas
 13. Grąžinkime script'o pavadinimą į originalu `"test"` ir išsaugome failą
 
 ```json
- "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+},
 ```

@@ -16,16 +16,16 @@ $ npm init -y
 Wrote to C:\Users\belau\Documents\Experiments\ebooks\js-for-kids\package.json:
 
 {
-  "name": "js-for-kids",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Rimantas (https://github.com/belauzas)",
-  "license": "MIT"
+	"name": "js-for-kids",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Rimantas (https://github.com/belauzas)",
+	"license": "MIT"
 }
 ```
 

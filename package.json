@@ -4,6 +4,8 @@
     "description": "1. Pasiruošimas\r     1. [Editoriaus pasiruošimas](./content/pasiruosimas/editorius.md)\r     2. [Naujo projekto pasiruošimas](./content/pasiruosimas/projektas.md)\r     3. [Kaip naudotis terminalu?](./content/pasiruosimas/terminalas.md)\r     4. [JavaScript projekto pasiruošimas](./content/pasiruosimas/js-project.md)\r     5. [Įsirašome papildomus įrankius](./content/pasiruosimas/install.md)\r 2. Darbas su duomenimis",
     "main": "index.js",
     "scripts": {
+        "labas": "echo Labas rytas suraitytas",
+        "knyga": "echo Ronja plesyko dukra",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {

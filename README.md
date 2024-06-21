@@ -8,5 +8,6 @@
     3. [Kaip naudotis terminalu?](./content/pasiruosimas/terminalas.md)
     4. [JavaScript projekto pasiruošimas](./content/pasiruosimas/js-project.md)
     5. [Mokomės naudotis script'ais](./content/pasiruosimas/npm-scripts.md)
+    6. [Nauji script'ai](./content/pasiruosimas/new-script.md)
 2. Darbas su duomenimis
 3.

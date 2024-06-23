@@ -12,4 +12,5 @@
     7. [JavaScript projekto pradžia](./content/pasiruosimas/js-start.md)
 2. Darbas su duomenimis
     1. [Skaičiai](./content/data-types/numbers.md)
+        - [Užduotis: 1](./content/data-types/numbers-task-1.md)
 3.

@@ -3,6 +3,7 @@
 # JavaScript projekto pradžia
 
 1. Susikuriame naują failą, pavadinimu `index.js`
+   ![alt text](./new-file.png)
 2. Į šį failą parašome:
 
 ```js

@@ -22,3 +22,4 @@ console.log(jug);
     - visos raidės yra mažosios
     - nebent yra keli žodžiai, tada sekantys žodžiai prasideda iš didžiosios raidės
 7. Pabaik rašyti visų likusių prekių kintamuosius ir juos išspausdink
+8. Paleidžiame script'ą ir patikriname, jog viskas veikia

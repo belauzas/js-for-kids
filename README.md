@@ -11,4 +11,5 @@
     6. [Nauji script'ai](./content/pasiruosimas/new-script.md)
     7. [JavaScript projekto pradžia](./content/pasiruosimas/js-start.md)
 2. Darbas su duomenimis
+    1. [Skaičiai](./content/data-types/numbers.md)
 3.

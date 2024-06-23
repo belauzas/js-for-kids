@@ -19,14 +19,14 @@
     - turi būti tik iš mažųjų raidžių
 6. Sukurkime 2 naujus script'us, kurie išspausdins kelis trumpus tekstus į terminalą
     - pirmasis: `"labas": "echo Labas rytas suraitytas"`
-    - antrasis: `"knyga": "echo Ronja plesyko dukra"`
+    - antrasis: `"knyga": "echo Ronja plesiko dukra"`
 7. Sudėkime šiuo script'us į `package.json` failo `"script"` dalį. Nepamirškime eilutės pabaigoje padėti kablelio (,) ženklo.
 8. Galutinis rezultatas turėtų atrodyti taip:
 
 ```json
 "scripts": {
     "labas": "echo Labas rytas suraitytas",
-    "knyga": "echo Ronja plesyko dukra",
+    "knyga": "echo Ronja plesiko dukra",
     "test": "echo \"Error: no test specified\" && exit 1"
 },
 ```
@@ -46,7 +46,7 @@ Labas rytas suraitytas
 $ npm run knyga
 
 > js-for-kids@1.0.0 knyga
-> echo Ronja plesyko dukra
+> echo Ronja plesiko dukra
 
-Ronja plesyko dukra
+Ronja plesiko dukra
 ```

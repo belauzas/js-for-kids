@@ -48,7 +48,7 @@ console.log(braskiuKaina);
 
 ## Užduotis
 
-1. Į `index.js` failą parašyk prieš pateiktą kodą
+1. Į `index.js` failą parašyk prieš tai pateiktą kodą
 2. Visų pirma sukuriame `kintamuosius`
 3. Po to parašome, jog juos išspaudintų
 4. Galutinis rezultatas turėtų atrodytu maždaug taip
